@@ -62,7 +62,7 @@ GDGoC 크루들이 함께 모여 기록하는 습관을 형성하고, 서로의 
 <tr align="center">
   <td><a href="https://easy1nhard2.tistory.com/">지원 블로그</a></td>
   <td><a href="">준희 블로그</a></td>
-  <td><a href="">영빈 블로그</a></td>
+  <td><a href="https://blog.naver.com/lzcuro0618/">영빈 블로그</a></td>
   <td><a href="">준우 블로그</a></td>
   <td><a href="">도협 블로그</a></td>
   <td><a href="">가영 블로그</a></td>
